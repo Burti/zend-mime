@@ -2,7 +2,7 @@
     "name": "burti/zend-mime",
     "description": "Zend Mime based web services with Symfony2",
     "keywords": [ "zend-mime" ],
-    "homepage": "https://github.com/Burti/zend-mime.git",
+    "homepage": "https://github.com/Burti/zend-mime",
     "license": "MIT",
     "type": "library",
     "authors": [
