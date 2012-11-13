@@ -19,17 +19,12 @@
     "autoload": {
         "psr-0": { "Zend\\Mime": "" }
     },
-    "source": {
-            "type": "git",
-            "url": "git@github.com:Burti/zend-mime.git",
-            "reference": "0d3299a309e377ae1c1c94a271c8e58454fcfd37"
-    },
-    "dist": {
-        "type": "zip",
-        "url": "https://github.com/Burti/zend-mime/zipball/0d3299a309e377ae1c1c94a271c8e58454fcfd37",
-        "reference": "0d3299a309e377ae1c1c94a271c8e58454fcfd37",
-        "shasum": ""
-    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Burti/zend-mime"
+        }
+    ],
     "target-dir": "Zend/Mime",
     "minimum-stability": "dev"
 }
