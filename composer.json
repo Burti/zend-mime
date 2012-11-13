@@ -19,6 +19,12 @@
     "autoload": {
         "psr-0": { "Zend\\Mime": "" }
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Burti/zend-mime"
+        }
+    ],
     "target-dir": "Zend/Mime",
     "minimum-stability": "dev"
 }
