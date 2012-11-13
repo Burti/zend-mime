@@ -18,5 +18,6 @@
     "autoload": {
         "psr-0": { "Zend\\Mime": "" }
     },
-    "target-dir": "Zend/Mime"
+    "target-dir": "Zend/Mime",
+    "minimum-stability": "dev"
 }
