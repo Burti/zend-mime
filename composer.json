@@ -2,15 +2,13 @@
     "name": "burti/zend-mime",
     "description": "Zend Mime based web services with Symfony2",
     "keywords": [ "zend-mime" ],
-    "homepage": "https://github.com/Burti/zend-mime",
-    "license": "MIT",
+    "homepage": "http://framework.zend.com/",
+    "license": "BSD-new",
     "type": "library",
     "authors": [
         {
-            "name": "Caio Paiola",
-            "email": "caio____@live.com",
-            "homepage": "http://www.burtihd.com.br",
-            "role": "Developer"
+            "name": "Zend",
+            "homepage": "http://framework.zend.com/"
         }
     ],
     "require": {
